@@ -16,7 +16,7 @@ function App() {
               <Place key = {place.id} place={place}/>
             ))}
           </ul>
-        </section>
+        </section> 
       </main>
     </>
   );

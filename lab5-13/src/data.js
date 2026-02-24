@@ -25,7 +25,7 @@ export const AVAILABLE_PLACES = [
       src: forestWaterfallImg,
       alt: "A tranquil forest with a cascading waterfall amidst greenery.",
     },
-  },
+  }, 
   {
     id: "p2",
     title: "Sahara Desert Dunes",
